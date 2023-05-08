@@ -1,0 +1,24 @@
+{
+  "toDo": [
+    {
+      "id": 1,
+      "name": "RTFM",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Finsih bootcamp alive",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Run a 5km marathon",
+      "isDone": false
+    },
+    {
+      "id": 1,
+      "name": "Be more serious",
+      "isDone": true
+    }
+  ]
+}
